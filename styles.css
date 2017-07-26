@@ -1,0 +1,70 @@
+#header {
+  font-size: 40px;
+  color: rgb(244, 215, 70);
+  background-color: rgba(0, 0, 0, 0.3);
+  font-family: "Bellefair";
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px
+}
+
+.batmanImage {
+  width: 80%;
+  height: 80%;
+  padding: 30px;
+}
+
+.batmanVideo {
+  padding: 35px;
+  width: 80%;
+  height: 80%;
+}
+
+.image {
+  width: 7%;
+  height: 7%;
+  float: left;
+  padding-left: 10px;
+}
+
+.image:hover {
+  width: 8%;
+  height: 8%;
+}
+
+.headerButton {
+  color: rgb(244, 215, 70);
+  text-decoration: none;
+  margin-right: 30px;
+}
+
+.headerButton:hover {
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 45px;
+}
+
+.blogPost {
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: center;
+  border-radius: 25px;
+  border: 3px solid black;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.blogPost > p {
+  font-size: 17px;
+  font-family: "Bellefair";
+  margin: 20px;
+
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  /*background-color: rgb(244, 215, 70);*/
+  background-image: url("http://www.powerpointhintergrund.com/uploads/yellow-background-5.jpg");
+}
